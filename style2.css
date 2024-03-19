@@ -1,0 +1,21 @@
+h1 {
+    background-color:transparent;
+    background-image: url(dark.png)
+;   
+ color: white;
+    padding: 15px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%; 
+    border-radius: 10px;
+}
+body{
+    background-image: linear-gradient(to right,#302e2d,#e3dade);
+}
+
+.button{
+    background-color: rgb(228, 223, 219);
+    padding: 20px;
+    align-content: center;
+    margin-left: 45%;
+}
